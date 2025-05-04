@@ -125,7 +125,9 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 
 ## 📚 Teaching Experience
 
-- Algorithms & Data Structures
+- Computational Thinking (Introduction to Algorithm Problem-Solving)
+- Algorithm Analysis & Design
+- Data Structures
 - Graph Theory & Discrete Mathematics
 - Probability & Statistics
 - Object-Oriented Programming & Functional Programming
@@ -133,6 +135,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 - Introduction to Artificial Intelligence
 - Introduction to Machine Learning
 - Theory of Computation
+- Formal Languages & Automata Theory
 
 ## 🔍 Current Interests
 
