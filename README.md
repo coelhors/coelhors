@@ -9,20 +9,33 @@
 I hold a strong academic background with bachelor's, master's, and PhD in Computer Science, with specialization in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for 6 years, teaching and researching in various areas of computer science.
 
 In 2023, I moved to Canada and enrolled in the Software Development Diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0, gaining practical skills in:
+
+<table>
+<tr>
+<td>
+
 - Object-Oriented Programming (C#, Python, and Java)
 - Design Patterns
 - Web development using JavaScript, CSS, and HTML (React & Angular)
 - Mobile development using React Native
 - SQL database programming and testing (Oracle and PostgreSQL)
+
+</td>
+<td>
+
 - API design and development (Flask/Python)
 - Agile software development methodologies (Scrum)
 - Data structures and algorithms
 - UI/UX design
 - Project management
 
+</td>
+</tr>
+</table>
+
 ## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
