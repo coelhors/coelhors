@@ -6,9 +6,9 @@
 
 ## About Me
 
-I hold a strong academic background with bachelor's, master's, and PhD in Computer Science, with specialization in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for 6 years, teaching and researching in various areas of computer science.
+I hold a strong academic background with a bachelor's, master's, and a PhD degree in Computer Science, specializing in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for almost 7 years, teaching and researching in various areas of Computer Science.
 
-In 2023, I moved to Canada and enrolled in the Software Development Diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0, gaining practical skills in:
+In 2023, I moved to Canada and enrolled in the Software Development diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0, gaining practical skills in:
 
 <table>
 <tr>
