@@ -123,15 +123,6 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
   - Focus: Mathematical Programming and Graph Theory
 - **BSc in Computer Science** - Federal University of Espírito Santo, Brazil (2005-2010)
 
-## 🏆 Featured Project
-
-### [Google Cloud Sales Analytics](https://github.com/rafaelsantoscoelho/sales-analytics)
-A comprehensive sales analytics platform developed as a capstone project at SAIT. This full-stack application demonstrates my ability to create enterprise-level solutions.
-
-**Tech Stack:** `Python` `Flask` `PostgreSQL` `Angular` `TypeScript` `ApexCharts` `JWT`
-
-**My Role:** Backend Development Lead
-
 ## 📚 Teaching Experience
 
 Throughout my career, I've taught diverse courses including:
