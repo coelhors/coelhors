@@ -8,28 +8,7 @@
 
 I hold a strong academic background with a bachelor's, master's, and a PhD degree in Computer Science, specializing in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for almost 7 years, teaching and researching in various areas of Computer Science.
 
-In 2023, I moved to Canada and enrolled in the Software Development diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0, gaining practical skills in:
-
-<table>
-<tr>
-<td>
-
-- Object-Oriented Programming & Design Patterns (C#, Python, and Java)
-- Web development using JavaScript, CSS, and HTML (React & Angular)
-- Mobile development using React Native
-- SQL database programming and testing (Oracle and PostgreSQL)
-
-</td>
-<td>
-
-- API design and development (Flask/Python)
-- Agile software development methodologies (Scrum)
-- Data structures and algorithms
-- Project management
-
-</td>
-</tr>
-</table>
+In 2023, I moved to Canada and enrolled in the Software Development diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0.
 
 ## 🛠️ Technical Skills
 
@@ -52,8 +31,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 
 ## 🎓 Education
 
-- **Software Development Diploma** - SAIT, Calgary, Canada (Expected Apr 2025)
-  - GPA: 3.97/4
+- **Software Development Diploma** - SAIT, Canada (2023-2025)
 - **PhD in Computer Science** - University of São Paulo, Brazil (2012-2017)
   - Focus: Algorithms and Graph Theory
 - **MSc in Computer Science** - Federal University of Minas Gerais, Brazil (2010-2012)
@@ -65,13 +43,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 ### [Google Cloud Sales Analytics](https://github.com/rafaelsantoscoelho/sales-analytics)
 A comprehensive sales analytics platform developed as a capstone project at SAIT. This full-stack application demonstrates my ability to create enterprise-level solutions.
 
-**Key Features:**
-- Real-time KPI dashboards with role-based access control
-- Advanced sales pipeline management system
-- Interactive data visualizations using ApexCharts
-- JWT authentication and RESTful API architecture
-
-**Tech Stack:** `Python` `Flask` `PostgreSQL` `Angular` `ApexCharts` `JWT`
+**Tech Stack:** `Python` `Flask` `PostgreSQL` `Angular` `TypeScript` `ApexCharts` `JWT`
 
 **My Role:** Backend Development Lead
 
