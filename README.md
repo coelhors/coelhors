@@ -6,23 +6,29 @@
 
 ## 🚀 About Me
 
-I'm an accomplished computer scientist with 7+ years of direct classroom practice, currently pursuing a Software Development Diploma at SAIT. I combine my enthusiasm for education and research to design hands-on learning experiences that foster innovation and critical thinking.
+I hold a strong academic background with bachelor's, master's, and PhD in Computer Science, with specialization in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for 6 years, teaching and researching in various areas of computer science.
 
-Previously, I served as a Full-time Professor at universities in Brazil, teaching courses in Computer Science and Software Engineering. I excel at mentoring students through hands-on and impactful projects, balancing theoretical understanding with practical applications.
-
-## 💼 Current Role
-
-**Casual Instructor** @ Bow Valley College & Robertson College
-- Teaching Programming Fundamentals, Object-oriented Programming, and IT Business Analysis
-- Delivering courses in Database Programming and Computer Programming
+In 2023, I moved to Canada and enrolled in the Software Development Diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0, gaining practical skills in:
+- Object-Oriented Programming (C#, Python, and Java)
+- Design Patterns
+- Web development using JavaScript, CSS, and HTML (React & Angular)
+- Mobile development using React Native
+- SQL database programming and testing (Oracle and PostgreSQL)
+- API design and development (Flask/Python)
+- Agile software development methodologies (Scrum)
+- Data structures and algorithms
+- UI/UX design
+- Project management
 
 ## 🛠️ Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -36,7 +42,7 @@ Previously, I served as a Full-time Professor at universities in Brazil, teachin
 ## 🎓 Education
 
 - **Software Development Diploma** - SAIT, Calgary, Canada (Expected Apr 2025)
-  - GPA: 3.96/4
+  - GPA: 3.97/4
 - **PhD in Computer Science** - University of São Paulo, Brazil (2012-2017)
   - Focus: Algorithms and Graph Theory
 - **MSc in Computer Science** - Federal University of Minas Gerais, Brazil (2010-2012)
