@@ -10,7 +10,7 @@ I hold a strong academic background with a bachelor's, master's, and a PhD degre
 
 In 2023, I moved to Canada and enrolled in the Software Development diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary, Alberta. I completed the program in April 2025 with a GPA of 3.97/4.0.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,12 +22,12 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Technologies
-- **Backend:** Flask, SQLAlchemy
-- **Frontend:** Angular
-- **Database:** PostgreSQL, SQL
-- **Concepts:** Design & Analysis of Algorithms, Data Structures, Discrete Mathematics, Graph Theory
-- **Specialties:** Machine Learning, Automata Theory, Computational Complexity
+### Libraries + Frameworks + Technologies
+- **Data Manipulation & Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Plotly, Seaborn
+- **Machine Learning & Deep Learning:** Scikit-learn, Statsmodels, Keras, PyTorch, TensorFlow
+- **Web Development:** React, Angular
+- **Database:** SQL (PostgresSQL, Oracle), PL/SQL
 
 ## 🎓 Education
 
