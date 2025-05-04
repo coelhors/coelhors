@@ -108,37 +108,21 @@ A comprehensive sales analytics platform developed as a capstone project at SAIT
 
 **My Role:** Backend Development Lead
 
-## 🌟 Academic Achievements
-
-- Coordinated competitive programming clubs and organized seminars
-- Coached undergraduate teams that qualified for the ICPC South America/Brazil Finals (2010, 2017, 2018)
-- Represented Brazil as a competitor at the 2009 ICPC World Finals in Stockholm, Sweden
-- Published research solving a specific case of Gallai's Path Decomposition Conjecture
-
 ## 📚 Teaching Experience
 
 Throughout my career, I've taught diverse courses including:
-- Algorithms & Data Structures
-- Graph Theory & Combinatorics
+- Algorithm Design & Analysis
+- Data Structures
+- Computational Thinking
+- Graph Theory
 - Object-Oriented Programming
-- Database Systems
+- Database Programming
 - Artificial Intelligence
 - Theory of Computation
 - Discrete Mathematics
 
-## 📫 Let's Connect!
+## 🔍 Current Interests
 
-I'm actively seeking opportunities in software development where I can apply my unique combination of:
-- Strong theoretical computer science background
-- Practical software development skills
-- Experience in mentoring and educating others
-
-Feel free to reach out for collaborations or opportunities!
-
----
-
-<div align="center">
-
-**"Combining education, research, and practical development to create innovative solutions"**
-
-</div>
+- **Applications of Data Science in Healthcare/Medicine and Public Policies**: Leveraging data analytics to improve healthcare outcomes and inform evidence-based policy decisions
+- **Applications of Machine Learning/Deep Learning in Cybersecurity**: Developing AI-driven solutions for threat detection, anomaly detection, and security automation
+- **Malware Analysis**: Studying malicious software behavior, reverse engineering, and developing detection techniques
