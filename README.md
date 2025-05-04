@@ -1,10 +1,10 @@
-# Hi, I'm Rafael Coelho 👋
+# Hi, I'm Rafael Coelho
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coelhors/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsantoscoelho@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 
-## 🚀 About Me
+## About Me
 
 I hold a strong academic background with bachelor's, master's, and PhD in Computer Science, with specialization in Graph Theory and Theoretical Computer Science. I worked as a university professor in Brazil for 6 years, teaching and researching in various areas of computer science.
 
@@ -14,8 +14,7 @@ In 2023, I moved to Canada and enrolled in the Software Development Diploma prog
 <tr>
 <td>
 
-- Object-Oriented Programming (C#, Python, and Java)
-- Design Patterns
+- Object-Oriented Programming & Design Patterns (C#, Python, and Java)
 - Web development using JavaScript, CSS, and HTML (React & Angular)
 - Mobile development using React Native
 - SQL database programming and testing (Oracle and PostgreSQL)
@@ -26,7 +25,6 @@ In 2023, I moved to Canada and enrolled in the Software Development Diploma prog
 - API design and development (Flask/Python)
 - Agile software development methodologies (Scrum)
 - Data structures and algorithms
-- UI/UX design
 - Project management
 
 </td>
