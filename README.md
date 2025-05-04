@@ -125,7 +125,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 
 ## 📚 Teaching Experience
 
-- Computational Thinking (Introduction to Algorithm Problem-Solving)
+- Computational Thinking (Introduction to Algorithmic Problem-Solving)
 - Algorithm Analysis & Design
 - Data Structures
 - Graph Theory & Discrete Mathematics
