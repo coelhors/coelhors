@@ -116,16 +116,15 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 
 ## 🎓 Education
 
-- **Software Development Diploma** - SAIT, Canada (2023-2025)
+- **Software Development Diploma** - Southern Alberta Institute of Technology, Canada (2023-2025)
 - **PhD in Computer Science** - University of São Paulo, Brazil (2012-2017)
-  - Focus: Algorithms and Graph Theory
+  - Focus: Approximation/Parameterized Algorithms & Graph Theory
 - **MSc in Computer Science** - Federal University of Minas Gerais, Brazil (2010-2012)
-  - Focus: Mathematical Programming and Graph Theory
+  - Focus: Mathematical Programming & Graph Theory
 - **BSc in Computer Science** - Federal University of Espírito Santo, Brazil (2005-2010)
 
 ## 📚 Teaching Experience
 
-Throughout my career, I've taught diverse courses including:
 - Algorithms & Data Structures
 - Graph Theory & Discrete Mathematics
 - Probability & Statistics
@@ -137,6 +136,6 @@ Throughout my career, I've taught diverse courses including:
 
 ## 🔍 Current Interests
 
-- **Applications of Data Science in Healthcare/Medicine and Public Policies**: Leveraging data analytics to improve healthcare outcomes and inform evidence-based policy decisions
+- **Data Science in Healthcare/Medicine**: Leveraging data analytics to improve healthcare outcomes and inform evidence-based policy decisions
 - **Applications of Machine Learning/Deep Learning in Cybersecurity**: Developing AI-driven solutions for threat detection, anomaly detection, and security automation
 - **Malware Analysis**: Studying malicious software behavior, reverse engineering, and developing detection techniques
