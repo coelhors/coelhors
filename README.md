@@ -79,7 +79,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 <td>Intermediate</td>
 </tr>
 <tr>
-<td><b>Machine Learning & Deep Learning</b></td>
+<td rowspan="2"><b>Machine Learning & Deep Learning</b></td>
 <td>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -90,7 +90,6 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 <td>Intermediate</td>
 </tr>
 <tr>
-<td></td>
 <td>
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
