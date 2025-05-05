@@ -143,12 +143,13 @@ In 2023, I relocated to Canada to expand my applied skill set and immerse myself
 
 ## 🎓 Education
 
-- **Software Development Diploma** - Southern Alberta Institute of Technology (SAIT), Canada (2023-2025)
-- **PhD in Computer Science** - University of São Paulo (USP), Brazil (2012-2017)
+- **Software Development Diploma** - Southern Alberta Institute of Technology - SAIT, Canada (2023-2025)
+  - GPA: 3.97/4.0
+- **PhD in Computer Science** - University of São Paulo - USP, Brazil (2012-2017)
   - Specialization: Approximation/Parameterized Algorithms, Computational Complexity, Graph Theory
-- **MSc in Computer Science** - Federal University of Minas Gerais (UFMG), Brazil (2010-2012)
+- **MSc in Computer Science** - Federal University of Minas Gerais - UFMG, Brazil (2010-2012)
   - Specialization: Integer Linear Programming, Combinatorial Optimization, Graph Theory
-- **BSc in Computer Science** - Federal University of Espírito Santo (UFES), Brazil (2005-2010)
+- **BSc in Computer Science** - Federal University of Espírito Santo - UFES, Brazil (2005-2010)
 
 
 ## 📚 Teaching Experience
