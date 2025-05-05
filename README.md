@@ -109,7 +109,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 <td>Intermediate</td>
 </tr>
 <tr>
-<td><b>Database</b></td>
+<td><b>Database Programming & Testing</b></td>
 <td>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
