@@ -84,8 +84,16 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td></td>
+<td>
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
