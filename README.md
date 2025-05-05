@@ -114,6 +114,16 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 </tr>
 </table>
 
+## 🔍 Current Interests
+
+- **Data Science & Machine Learning for Social Good**: Exploring how data-driven solutions can address pressing social challenges such as public health, education, climate change, and economic inequality. Passionate about using technology to drive positive societal impact through responsible AI.
+
+- **Data Science in Healthcare & Medicine**: Applying advanced analytics and modeling techniques to improve clinical decision-making, optimize healthcare delivery systems, and contribute to patient-centered innovations and policy reform.
+
+- **Machine Learning & Deep Learning in Cybersecurity**: Building intelligent systems for real-time threat detection, anomaly classification, and proactive cyber defense, with a focus on adversarial robustness and explainability.
+
+- **Malware Analysis & Reverse Engineering**: Investigating the behavior and lifecycle of malicious software using static and dynamic analysis techniques, with the aim of enhancing automated detection and mitigation strategies.
+
 ## 🎓 Education
 
 - **Software Development Diploma** - Southern Alberta Institute of Technology, Canada (2023-2025)
@@ -122,6 +132,7 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 - **MSc in Computer Science** - Federal University of Minas Gerais, Brazil (2010-2012)
   - Focus: Mathematical Programming & Graph Theory
 - **BSc in Computer Science** - Federal University of Espírito Santo, Brazil (2005-2010)
+
 
 ## 📚 Teaching Experience
 
@@ -137,8 +148,3 @@ In 2023, I moved to Canada and enrolled in the Software Development diploma prog
 - Theory of Computation
 - Formal Languages & Automata Theory
 
-## 🔍 Current Interests
-
-- **Data Science in Healthcare/Medicine**: Leveraging data analytics to improve healthcare outcomes and inform evidence-based policy decisions
-- **Applications of Machine Learning/Deep Learning in Cybersecurity**: Developing AI-driven solutions for threat detection, anomaly detection, and security automation
-- **Malware Analysis**: Studying malicious software behavior, reverse engineering, and developing detection techniques
