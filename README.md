@@ -6,6 +6,9 @@
 
 ## 👨‍💻 About Me
 
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/379677e7-8cca-4798-bb8e-5308fc5815e3" />
+
+
 I’m a computer scientist with a strong academic foundation, holding a bachelor’s, master’s, and a PhD degree in Computer Science. For nearly seven years, I served as a university professor in Brazil, where I taught a wide range of courses, mentored students, contributed to faculty committees, and conducted research in Polyhedral Combinatorics, Graph Theory, and Approximation and Parameterized Algorithms. This experience sharpened my analytical thinking, strengthened my ability to communicate complex ideas with clarity, and deepened my capacity to lead collaborative, research-driven problem solving.
 
 In 2023, I relocated to Canada to expand my applied skill set and immerse myself in industry-driven development. I enrolled in the Software Development diploma program at the Southern Alberta Institute of Technology (SAIT) in Calgary and completed it in April 2025. This transition reflects my commitment to lifelong learning and my interest in applying data-driven technologies to real-world challenges.
