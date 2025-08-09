@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/379677e7-8cca-4798-bb8e-5308fc5815e3" />
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/379677e7-8cca-4798-bb8e-5308fc5815e3" />
 
 
 I’m a computer scientist with a strong academic foundation, holding a bachelor’s, master’s, and a PhD degree in Computer Science. For nearly seven years, I served as a university professor in Brazil, where I taught a wide range of courses, mentored students, contributed to faculty committees, and conducted research in Polyhedral Combinatorics, Graph Theory, and Approximation and Parameterized Algorithms. This experience sharpened my analytical thinking, strengthened my ability to communicate complex ideas with clarity, and deepened my capacity to lead collaborative, research-driven problem solving.
