@@ -1,7 +1,7 @@
 # Hi, I'm Rafael Coelho
 
 [![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/coelhors/)
-[![Email](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:rafaelsantoscoelho@gmail.com)
+[![Email](https://img.icons8.com/?size=50&id=68415&format=png&color=000000)](mailto:rafaelsantoscoelho@gmail.com)
 [![Google Scholar](https://img.icons8.com/?size=50&id=okYCvWotC0uX&format=png&color=000000)](https://scholar.google.com/citations?user=EJH6LTYAAAAJ&hl=en)
 
 ## About Me
