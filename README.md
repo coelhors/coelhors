@@ -1,9 +1,5 @@
 # Hi, I'm Rafael Coelho
 
-[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/coelhors/)
-[![Email](https://img.icons8.com/?size=40&id=42830&format=png&color=000000)](mailto:rafaelsantoscoelho@gmail.com)
-[![Google Scholar](https://img.icons8.com/?size=50&id=okYCvWotC0uX&format=png&color=000000)](https://scholar.google.com/citations?user=EJH6LTYAAAAJ&hl=en)
-
 ## About Me
 
 I’m a computer scientist with a strong academic foundation, holding a bachelor’s, master’s, and a PhD degree in Computer Science. For nearly seven years, I served as a university professor in Brazil, where I taught a wide range of courses, mentored students, contributed to faculty committees, and conducted research in Polyhedral Combinatorics, Graph Theory, and Approximation and Parameterized Algorithms. This experience sharpened my analytical thinking, strengthened my ability to communicate complex ideas with clarity, and deepened my capacity to lead collaborative, research-driven problem solving.
