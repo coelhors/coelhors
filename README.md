@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a computer scientist with a strong academic foundation, holding a bachelor’s, master’s, and a PhD degree in Computer Science. For nearly seven years, I served as a university professor in Brazil, where I taught a wide range of courses, mentored students, contributed to faculty committees, and conducted research in Polyhedral Combinatorics, Graph Theory, and Approximation and Parameterized Algorithms. This experience sharpened my analytical thinking, strengthened my ability to communicate complex ideas with clarity, and deepened my capacity to lead collaborative, research-driven problem solving.
+I’m a computer scientist with a strong academic foundation, holding a bachelor’s, master’s, and a PhD degree in Computer Science. For six years, I served as a university professor in Brazil, where I taught a wide range of courses, mentored students, contributed to faculty committees, and conducted research in Polyhedral Combinatorics, Graph Theory, and Approximation and Parameterized Algorithms. This experience sharpened my analytical thinking, strengthened my ability to communicate complex ideas with clarity, and deepened my capacity to lead collaborative, research-driven problem solving.
 
 Since 2024, I have been teaching at Bow Valley College in Calgary, delivering courses in programming, IT business analysis, and technical communications. My work blends deep technical expertise with a commitment to empowering learners through practical, real-world applications. I am currently focused on leveraging Data Science, Machine Learning, and Data Analytics to address social challenges—particularly in healthcare, education, and public policy—where technology can be used responsibly to drive positive, lasting change.
 
